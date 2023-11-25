@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nisalgunawardhana
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning OOP concepts , Flutter 
+- 🌱 I’m currently learning OOP concepts , Flutter ,java and kotlin 
 
 
 <!---
