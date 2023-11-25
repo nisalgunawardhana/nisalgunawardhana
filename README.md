@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisal Gunawardhana</h1>
 <h3 align="center">A Undergraduate Student from SLIIT</h3>
+<img title="a title" alt="Alt text" src="[/images/boo.svg](https://media.licdn.com/dms/image/D5616AQFepxLBKYgFbQ/profile-displaybackgroundimage-shrink_350_1400/0/1700547479203?e=1706140800&v=beta&t=i5V2dBhshDHPDYQnVUriE-ZCj1T0W7OAIfUF9WWkSPY)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisalgunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="nisalgunawardhana" /> </p>
 
