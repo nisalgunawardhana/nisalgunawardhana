@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sansgunawardhana](https://medium.com/@sansgunawardhana)
 
-- 💬 Ask me about **php, java,c++,coop**
+- 💬 Ask me about **php, java,c++,c,oop**
 
 - 📫 How to reach me **sansgunawardhana@gmail.com**
 
