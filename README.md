@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisal gunawardhana</h1>
-<h3 align="center">A Undergraduate Student from SLIIT</h3>
+<h3 align="center">Software Engineer & Undergraduate Student at SLIIT </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisalgunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="nisalgunawardhana" /> </p>
 
