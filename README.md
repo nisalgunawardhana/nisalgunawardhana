@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=nisalgunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="nisalgunawardhana" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud%20Technologies-blue" alt="Focus" />
   <img src="https://img.shields.io/badge/Role-Tech%20Speaker-green" alt="Speaker" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-green" alt="SE" />
 </p>
 
 ## 🚀 About Me
@@ -63,22 +64,6 @@ Passionate **Software Engineer** and **Tech Speaker** with a focus on **AI, Clou
 - 🎤 **Speaking**: Available for tech conferences, workshops, and community events  
 - 🔧 **Consulting**: Expertise in Microsoft technologies, API development, and cloud solutions
 - 📚 **Content Creation**: Technical writing and educational content">Hi 👋, I'm Nisal gunawardhana</h1>
-<h3 align="center">Software Engineer & Undergraduate Student at SLIIT </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisalgunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="nisalgunawardhana" /> </p>
-
-
-- 🌱 I’m currently learning **react, node.js ,express**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nisalgunawardhana/](https://www.linkedin.com/in/nisalgunawardhana/)
-
-- 📝 I regularly write articles on [https://medium.com/@sansgunawardhana](https://medium.com/@sansgunawardhana)
-
-- 💬 Ask me about **php, java,c++,c,oop**
-
-- 📫 How to reach me **sansgunawardhana@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nisalgunawardhana/](https://www.linkedin.com/in/nisalgunawardhana/)
 
 ## 🌐 Connect With Me
 
