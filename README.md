@@ -134,26 +134,6 @@ Passionate **Software Engineer** and **Tech Speaker** with a focus on **AI, Clou
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalgunawardhana&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
 </div>
 
-## 📈 Contribution Chart
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nisalgunawardhana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisalgunawardhana&theme=tokyonight" alt="Profile Summary" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nisalgunawardhana&theme=tokyonight" alt="Repos per Language" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nisalgunawardhana&theme=tokyonight" alt="Most Commit Language" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nisalgunawardhana&theme=tokyonight" alt="Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisalgunawardhana&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180"/>
-</div>
-
 ## 🎯 Featured Projects & Contributions
 
 <div align="center">
