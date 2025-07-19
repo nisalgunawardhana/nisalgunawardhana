@@ -138,7 +138,7 @@ Passionate **Software Engineer** and **Tech Speaker** with a focus on **AI, Clou
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
 </p>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nisalgunawardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -149,19 +149,44 @@ Passionate **Software Engineer** and **Tech Speaker** with a focus on **AI, Clou
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalgunawardhana&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
 </div>
 
+## 📈 Contribution Chart
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nisalgunawardhana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisalgunawardhana&theme=tokyonight" alt="Profile Summary" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nisalgunawardhana&theme=tokyonight" alt="Repos per Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nisalgunawardhana&theme=tokyonight" alt="Most Commit Language" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nisalgunawardhana&theme=tokyonight" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisalgunawardhana&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180"/>
+</div>
+
 ## 🎯 Featured Projects & Contributions
 
 <div align="center">
-  <a href="https://github.com/nisalgunawardhana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisalgunawardhana&repo=your-featured-repo&theme=tokyonight&hide_border=true" alt="Featured Repo"/>
-  </a>
+    <a href="https://github.com/nisalgunawardhana/How-To-Create-MCP-Server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisalgunawardhana&repo=How-To-Create-MCP-Server&theme=tokyonight&hide_border=true" alt="How-To-Create-MCP-Server"/>
+    </a>
+    <a href="https://github.com/nisalgunawardhana/Gmail-MCP-Server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisalgunawardhana&repo=Gmail-MCP-Server&theme=tokyonight&hide_border=true" alt="Gmail-MCP-Server"/>
+    </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>💬 "Empowering the next generation of developers through technology, mentorship, and innovation"</h3>
-  <p><strong>Open to collaborations • Speaking opportunities • Mentorship</strong></p>
-  
-  ![Snake animation](https://github.com/nisalgunawardhana/nisalgunawardhana/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center">💬 "Empowering the next generation of developers through technology, mentorship, and innovation"</h3>
+<p align="center"><strong>Open to collaborations • Speaking opportunities • Mentorship</strong></p>
+
+<p align="center">
+    <img src="https://github.com/nisalgunawardhana/nisalgunawardhana/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 </div>
