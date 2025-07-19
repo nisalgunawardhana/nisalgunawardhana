@@ -151,7 +151,4 @@ Passionate **Software Engineer** and **Tech Speaker** with a focus on **AI, Clou
 <h3 align="center">💬 "Empowering the next generation of developers through technology, mentorship, and innovation"</h3>
 <p align="center"><strong>Open to collaborations • Speaking opportunities • Mentorship</strong></p>
 
-<p align="center">
-    <img src="https://github.com/nisalgunawardhana/nisalgunawardhana/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 </div>
