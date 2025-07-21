@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud%20Technologies-blue" alt="Focus" />
   <img src="https://img.shields.io/badge/Role-Tech%20Speaker-green" alt="Speaker" />
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-green" alt="SE" />
+  <img src="https://img.shields.io/github/followers/nisalgunawardhana?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/nisalgunawardhana?label=Total%20Stars&style=flat&color=yellow" alt="Total Stars" />
 </p>
 
 ## 🚀 About Me
