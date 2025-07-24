@@ -132,9 +132,6 @@ Passionate **Software Engineer** and **Tech Speaker** with a focus on **AI, Clou
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisalgunawardhana&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalgunawardhana&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
-</div>
 
 ## 🎯 Featured Projects & Contributions
 
