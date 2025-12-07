@@ -26,6 +26,7 @@ Passionate **Software Engineer** and **Tech Speaker** with a focus on **AI, Clou
 
 - 🥇 **Microsoft Learn Student Ambassador** - Empowering developers with Microsoft technologies
 - 📮 **Postman Student Leader** - Promoting API-first development practices
+- 🥇 **Github Campus Expert** - Empowering developers with Github
 - 🎤 **Tech Speaker** - Speaking at conferences and tech meetups
 - 🏆 **LinkedIn Top Voice** - Sharing insights on technology and career development
 - 👨‍💼 **Founder @apestore.lk** - Building next-generation digital solutions
