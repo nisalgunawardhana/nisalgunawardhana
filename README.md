@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisal Gunawardhana</h1>
+<h1 align="center">Hey 👋, I'm Nisal Gunawardhana</h1>
 <h3 align="center">Software Engineer | Tech Speaker | Microsoft Learn Student Ambassador | Postman Student Leader |GCE 🚩</h3>
 
 <p align="center">
@@ -7,10 +7,8 @@
   <img src="https://img.shields.io/github/stars/nisalgunawardhana?label=Total%20Stars&style=flat&color=yellow" alt="Total Stars" />
 </p>
 
-## 🚀 About Me
-
 <p align="center">
-  <img src="images/image.png" alt="Profile Image" style="border-radius: 15px;" />
+  <img src="images/image.png" alt="Profile Image" style="border-radius: 15px" />
 </p>
 
 I'm a **Software Engineer** and **Tech Speaker** specializing in artificial intelligence, cloud technologies, and modern web development. My journey in technology is driven by a passion for innovation and a commitment to empowering the next generation of developers.
