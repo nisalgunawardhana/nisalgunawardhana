@@ -32,7 +32,7 @@ Through speaking engagements at conferences and tech meetups, I inspire develope
 </td>
 <td align="center" width="25%">
 <h4>🔧 Consulting</h4>
-<p>Expertise in Microsoft technologies, API development, and cloud solutions</p>
+<p>Expertise in Microsoft technologies,development, and cloud solutions</p>
 </td>
 <td align="center" width="25%">
 <h4>📚 Content Creation</h4>
@@ -50,6 +50,16 @@ Through speaking engagements at conferences and tech meetups, I inspire develope
 <a href="https://instagram.com/thenisals" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenisalgunawardhana" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nisalgunawardhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nisal gunawardhana" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+  <div align="center">
+    <h3>☕ Support My Work</h3>
+    <p>If you find my projects helpful, consider supporting open source development</p>
+    <a href="https://payhere.lk/pay/oe2e4fef4" target="_blank" rel="noreferrer" style="display:inline-block;padding:12px 24px;margin:8px 0;background-color:#9100F2;color:#ffffff;border-radius:8px;text-decoration:none;font-weight:600;">
+      ☕ Buy Me a Coffee • $1
+    </a>
+  </div>
+</div>
 
 
 
