@@ -43,23 +43,8 @@ Through speaking engagements at conferences and tech meetups, I inspire develope
 </div>
 
 
-<p align="center">
-<a href="https://twitter.com/thenisals" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenisal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nisalgunawardhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisalgunawardhana" height="30" width="40" /></a>
-<a href="https://fb.com/thenisals" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nisalgunawardhana" height="30" width="40" /></a>
-<a href="https://instagram.com/thenisals" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenisalgunawardhana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nisalgunawardhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nisal gunawardhana" height="30" width="40" /></a>
-</p>
+<p align="center"> <a href="https://twitter.com/thenisals" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/nisalgunawardhana" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://fb.com/thenisals" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/thenisals" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/@nisalgunawardhana" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" /> </a> </p>
 
-<div align="center">
-  <div align="center">
-    <h3>☕ Support My Work</h3>
-    <p>If you find my projects helpful, consider supporting open source development</p>
-    <a href="https://payhere.lk/pay/oe2e4fef4" target="_blank" rel="noreferrer" style="display:inline-block;padding:12px 24px;margin:8px 0;background-color:#9100F2;color:#ffffff;border-radius:8px;text-decoration:none;font-weight:600;">
-      ☕ Buy Me a Coffee • $1
-    </a>
-  </div>
-</div>
 
 
 
